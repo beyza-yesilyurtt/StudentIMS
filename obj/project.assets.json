@@ -2018,11 +2018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Beyza\\source\\repos\\Proporities\\Student_IMS\\Student_IMS.csproj",
+      "projectUniqueName": "C:\\Users\\Beyza\\Desktop\\Student_IMS\\Student_IMS.csproj",
       "projectName": "Student_IMS",
-      "projectPath": "C:\\Users\\Beyza\\source\\repos\\Proporities\\Student_IMS\\Student_IMS.csproj",
+      "projectPath": "C:\\Users\\Beyza\\Desktop\\Student_IMS\\Student_IMS.csproj",
       "packagesPath": "C:\\Users\\Beyza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Beyza\\source\\repos\\Proporities\\Student_IMS\\obj\\",
+      "outputPath": "C:\\Users\\Beyza\\Desktop\\Student_IMS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Beyza\\AppData\\Roaming\\NuGet\\NuGet.Config",

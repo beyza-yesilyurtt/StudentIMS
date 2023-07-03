@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E7f8y39qiIY5Xj28Z0kIzgiBJ2QUYMWHpNukgJXvR/tln+h3gPrFnLy2xdd3GaqBVwxHYrMq+bZyZ1sZRXbdBQ==",
+  "dgSpecHash": "uD2n1rADpuZPWg5Kk3befIk+wT5HDYHm9dvbwdIk85B9bT3tsvflUXd+R2NC4yFoMLXJT2OieBm8dEBO0kJFIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Beyza\\source\\repos\\Proporities\\Student_IMS\\Student_IMS.csproj",
+  "projectFilePath": "C:\\Users\\Beyza\\Desktop\\Student_IMS\\Student_IMS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Beyza\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Beyza\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
