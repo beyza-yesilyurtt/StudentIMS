@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Beyza\\source\\repos\\Student_IMS\\Student_IMS.csproj": {}
+    "C:\\Users\\Beyza\\source\\repos\\Proporities\\Student_IMS\\Student_IMS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Beyza\\source\\repos\\Student_IMS\\Student_IMS.csproj": {
+    "C:\\Users\\Beyza\\source\\repos\\Proporities\\Student_IMS\\Student_IMS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Beyza\\source\\repos\\Student_IMS\\Student_IMS.csproj",
+        "projectUniqueName": "C:\\Users\\Beyza\\source\\repos\\Proporities\\Student_IMS\\Student_IMS.csproj",
         "projectName": "Student_IMS",
-        "projectPath": "C:\\Users\\Beyza\\source\\repos\\Student_IMS\\Student_IMS.csproj",
+        "projectPath": "C:\\Users\\Beyza\\source\\repos\\Proporities\\Student_IMS\\Student_IMS.csproj",
         "packagesPath": "C:\\Users\\Beyza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Beyza\\source\\repos\\Student_IMS\\obj\\",
+        "outputPath": "C:\\Users\\Beyza\\source\\repos\\Proporities\\Student_IMS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Beyza\\AppData\\Roaming\\NuGet\\NuGet.Config",

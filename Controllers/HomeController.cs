@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Student_IMS.Models;
 using System.Diagnostics;
 
@@ -19,6 +20,10 @@ namespace Student_IMS.Controllers
         }
 
         public IActionResult Privacy()
+        {
+            return View();
+        }
+        public IActionResult MyFirstRazorPage()
         {
             return View();
         }
