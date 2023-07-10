@@ -1,15 +1,18 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Student_IMS.Models;
 
 namespace Student_IMS.Data
 {
+  
+
     public class StudentDbContext : DbContext
     {
+    
         public StudentDbContext(DbContextOptions<StudentDbContext> options) : base(options)
         {
 
         }
-
         public DbSet<Student> Students { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

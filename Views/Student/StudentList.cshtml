@@ -1,1 +1,52 @@
-﻿<h1>Student List</h1>
+﻿@model List<Student>
+<div class="row">
+	<div class="col-6">
+		<h2 class="display-2"> Student List</h2>
+	</div>
+	<div class="col-6" >
+		<a asp-controller="Student" asp-action="Create" class="btn btn-outline-primary form-control">Create</a> 
+	</div>
+</div>
+
+</div>
+	@if(TempData["success"] != null) {
+		<div> 
+			<h3> @TempData["success"]</h3
+
+</div>
+	}
+
+
+	<table class=" table table-striped table-hover">
+
+
+		<thead>
+
+			<tr>
+				<th> Name</th>
+				<th> Surname</th>
+				<th> Student Number</th>
+				<th> Age</th>
+
+			</tr>
+		</thead>
+
+		<tbody>
+			@foreach (var student in Model)
+			{
+				<tr>
+					<td>@student.Name</td>
+					<td>@student.Surname</td>
+					<td>@student.StudentNumber</td>
+					<td>@student.Age</td>
+
+				</tr>
+			}
+		</tbody>
+	</table>
+
+
+
+
+
+</>

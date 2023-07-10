@@ -6,13 +6,14 @@ namespace Student_IMS.Models
     {
         [Key]
         public int Id { get; set; }
-        [Required]
+        [Required(ErrorMessage ="Name is required")]
         public string Name { get; set; }
-        [Required]
+        [Required(ErrorMessage ="Surname is required")]
         public string Surname { get; set; }
-        [Required]
+        [Required(ErrorMessage ="Student number is required")]
+        [Display(Name="Student Number")]
         public int StudentNumber { get; set; }
-
+        [Range(17,50, ErrorMessage ="Age must be between 17 and 50")]
         public int Age { get; set; }
     }
 }
